@@ -1,0 +1,12 @@
+streamlit>=1.38
+opencv-python-headless>=4.9
+numpy>=1.26
+pillow>=10.0
+# pretrained models (no training needed)
+torch>=2.2
+transformers>=4.40
+huggingface_hub>=0.23
+ultralytics>=8.2
+# only needed if you train/use your own Keras model (train_model.py / Colab notebook)
+# tensorflow>=2.15
+# scikit-learn
