@@ -1,5 +1,0 @@
-streamlit>=1.38
-opencv-python-headless>=4.9
-tensorflow>=2.15
-numpy>=1.26
-ultralytics>=8.2   # optional: weapon detection (YOLO)
